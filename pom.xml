@@ -1,0 +1,49 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>oracle.metrics</groupId>
+	<artifactId>oracle.end.to.end</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<properties>
+		<!-- Compiler properties for maven -->
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<encoding>UTF-8</encoding>
+		<project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>${encoding}</project.reporting.outputEncoding>
+		<project.resources.sourceEncoding>${encoding}</project.resources.sourceEncoding>
+
+		<oracle.driver.version>18.3.0.0</oracle.driver.version>
+	</properties>
+
+	<dependencies>
+		<!-- Oracle -->
+		<!-- https://softwarecave.org/2014/06/14/adding-external-jars-into-maven-project/ -->
+		<!-- mvn install:install-file -Dfile=ons-12.1.0.2.jar -DgroupId=com.oracle.jdbc -DartifactId=ons -Dversion=12.1.0.2 -Dpackaging=jar -->
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>ojdbc8dms</artifactId>
+			<version>${oracle.driver.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.oracle.jdbc</groupId>
+			<artifactId>ucp</artifactId>
+			<version>${oracle.driver.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.oracle.jdbc</groupId>
+			<artifactId>ons</artifactId>
+			<version>${oracle.driver.version}</version>
+		</dependency>
+	
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>dms</artifactId>
+			<version>3.0</version>
+		</dependency>
+		
+	</dependencies>
+</project>

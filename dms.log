@@ -1,0 +1,678 @@
+<DMSDUMP version='2.0'>
+<timestamp>1559663669262 (Tue Jun 04 21:24:29 IST 2019)</timestamp>
+
+ UCP_METRIC
+ JVM
+  activeThreadGroups.maxValue:	1.0 groups
+  activeThreadGroups.minValue:	1.0 groups
+  activeThreadGroups.value:	1 groups
+  activeThreads.maxValue:	11.0 threads
+  activeThreads.minValue:	7.0 threads
+  activeThreads.value:	11 threads
+  freeMemory.maxValue:	402345.0 kbytes
+  freeMemory.minValue:	280836.0 kbytes
+  freeMemory.value:	280836 kbytes
+  startTime.value:	1559663644089 msecs
+  totalMemory.maxValue:	502784.0 kbytes
+  totalMemory.minValue:	339456.0 kbytes
+  totalMemory.value:	339456 kbytes
+  upTime.value:	25176 msecs
+  Properties
+   awt_toolkit.value:	sun.awt.windows.WToolkit 
+   file_encoding.value:	UTF-8 
+   file_encoding_pkg.value:	sun.io 
+   file_separator.value:	\ 
+   java_awt_graphicsenv.value:	sun.awt.Win32GraphicsEnvironment 
+   java_awt_printerjob.value:	sun.awt.windows.WPrinterJob 
+   java_class_path.value:	D:\WORKSPACE_2018\oracle.end.to.end\target\classes;F:\MAVEN_REPO\repository\com\oracle\ojdbc8dms\18.3.0.0\ojdbc8dms-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ucp\18.3.0.0\ucp-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ons\18.3.0.0\ons-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\dms\3.0\dms-3.0.jar;D:\PROJECTS\programs\sts-bundle\sts-3.9.6.RELEASE\configuration\org.eclipse.osgi\409\0\.cp\lib\javaagent-shaded.jar 
+   java_class_version.value:	52.0 
+   java_endorsed_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\endorsed 
+   java_ext_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext 
+   java_home.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre 
+   java_io_tmpdir.value:	C:\Users\thanu\AppData\Local\Temp\ 
+   java_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\bin;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\TortoiseGit\bin;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;;D:\PROJECTS\programs\sts-bundle\sts-3.9.6.RELEASE;;. 
+   java_runtime_name.value:	Java(TM) SE Runtime Environment 
+   java_runtime_version.value:	1.8.0_181-b13 
+   java_specification_name.value:	Java Platform API Specification 
+   java_specification_vendor.value:	Oracle Corporation 
+   java_specification_version.value:	1.8 
+   java_util_logging_SimpleFormatter_format.value:	[%1$tF %1$tT] [%4$-7s] %5$s %n 
+   java_vendor.value:	Oracle Corporation 
+   java_vendor_url.value:	http://java.oracle.com/ 
+   java_vendor_url_bug.value:	http://bugreport.sun.com/bugreport/ 
+   java_version.value:	1.8.0_181 
+   java_vm_info.value:	mixed mode 
+   java_vm_name.value:	Java HotSpot(TM) 64-Bit Server VM 
+   java_vm_specification_name.value:	Java Virtual Machine Specification 
+   java_vm_specification_vendor.value:	Oracle Corporation 
+   java_vm_specification_version.value:	1.8 
+   java_vm_vendor.value:	Oracle Corporation 
+   java_vm_version.value:	25.181-b13 
+   line_separator.value:	
+ 
+   oracle_jdbc_fanEnabled.value:	false 
+   os_arch.value:	amd64 
+   os_name.value:	Windows 10 
+   os_version.value:	10.0 
+   path_separator.value:	; 
+   sun_arch_data_model.value:	64 
+   sun_boot_class_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\resources.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\rt.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jsse.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jce.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\charsets.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jfr.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\classes 
+   sun_boot_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\bin 
+   sun_cpu_endian.value:	little 
+   sun_cpu_isalist.value:	amd64 
+   sun_desktop.value:	windows 
+   sun_io_unicode_encoding.value:	UnicodeLittle 
+   sun_java_command.value:	ora.end.to.end.OracleE2EMetrics_XAPool_Test 
+   sun_java_launcher.value:	SUN_STANDARD 
+   sun_jnu_encoding.value:	Cp1252 
+   sun_management_compiler.value:	HotSpot 64-Bit Tiered Compilers 
+   sun_os_patch_level.value:	 
+   user_country.value:	IN 
+   user_dir.value:	D:\WORKSPACE_2018\oracle.end.to.end 
+   user_home.value:	C:\Users\thanu 
+   user_language.value:	en 
+   user_name.value:	thanu 
+   user_script.value:	 
+   user_timezone.value:	Asia/Calcutta 
+   user_variant.value:	 
+ JDBC
+  OracleDataSource_2
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	48.0 msecs
+   ConnectionCreate.maxTime:	48 msecs
+   ConnectionCreate.minTime:	48 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	48 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_1
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	57.0 msecs
+   ConnectionCreate.maxTime:	57 msecs
+   ConnectionCreate.minTime:	57 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	57 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_0
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	881.0 msecs
+   ConnectionCreate.maxTime:	881 msecs
+   ConnectionCreate.minTime:	881 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	881 msecs
+   ConnectionOpenCount.count:	1 ops
+ DMS-Internal
+  Spy
+   spyExit.count:	1 ops
+   spyExit.logged:	0 ops
+  Measurement
+   createNoun.count:	20 ops
+   createSensor.count:	134 ops
+   destroyNoun.count:	7 ops
+   destroySensor.count:	52 ops
+   lastTreeNodeID.value:	0 
+   sampleMetric.count:	105 ops
+   sensorWeight.value:	5 
+   treeNodes.maxValue:	285.0 
+   treeNodes.value:	123 
+  Log
+   initLogging.count:	1 ops
+   messagesLogged.count:	0 ops
+   status.value:	enabled 
+  Clock
+   clockTime.value:	1559663669267 msecs
+   measuredFrequency.value:	1000 ticks
+   measuredResolution.value:	1 msecs
+   name.value:	default 
+   overheadPerCall.value:	4.1944433189354876E-6 msecs
+   reportedFrequency.value:	1000 ticks
+   requestedUnits.value:	msecs 
+</DMSDUMP>
+<DMSDUMP version='2.0'>
+<timestamp>1559664415062 (Tue Jun 04 21:36:55 IST 2019)</timestamp>
+
+ UCP_METRIC
+ JVM
+  activeThreadGroups.maxValue:	1.0 groups
+  activeThreadGroups.minValue:	1.0 groups
+  activeThreadGroups.value:	1 groups
+  activeThreads.maxValue:	11.0 threads
+  activeThreads.minValue:	7.0 threads
+  activeThreads.value:	11 threads
+  freeMemory.maxValue:	463147.0 kbytes
+  freeMemory.minValue:	348512.0 kbytes
+  freeMemory.value:	348512 kbytes
+  startTime.value:	1559664412979 msecs
+  totalMemory.maxValue:	502784.0 kbytes
+  totalMemory.minValue:	383488.0 kbytes
+  totalMemory.value:	383488 kbytes
+  upTime.value:	2086 msecs
+  Properties
+   awt_toolkit.value:	sun.awt.windows.WToolkit 
+   file_encoding.value:	UTF-8 
+   file_encoding_pkg.value:	sun.io 
+   file_separator.value:	\ 
+   java_awt_graphicsenv.value:	sun.awt.Win32GraphicsEnvironment 
+   java_awt_printerjob.value:	sun.awt.windows.WPrinterJob 
+   java_class_path.value:	D:\WORKSPACE_2018\oracle.end.to.end\target\classes;F:\MAVEN_REPO\repository\com\oracle\ojdbc8dms\18.3.0.0\ojdbc8dms-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ucp\18.3.0.0\ucp-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ons\18.3.0.0\ons-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\dms\3.0\dms-3.0.jar 
+   java_class_version.value:	52.0 
+   java_endorsed_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\endorsed 
+   java_ext_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext 
+   java_home.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre 
+   java_io_tmpdir.value:	C:\Users\thanu\AppData\Local\Temp\ 
+   java_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\TortoiseGit\bin;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;;D:\PROJECTS\programs\sts-bundle\sts-3.9.6.RELEASE;;. 
+   java_runtime_name.value:	Java(TM) SE Runtime Environment 
+   java_runtime_version.value:	1.8.0_181-b13 
+   java_specification_name.value:	Java Platform API Specification 
+   java_specification_vendor.value:	Oracle Corporation 
+   java_specification_version.value:	1.8 
+   java_util_logging_SimpleFormatter_format.value:	[%1$tF %1$tT] [%4$-7s] %5$s %n 
+   java_vendor.value:	Oracle Corporation 
+   java_vendor_url.value:	http://java.oracle.com/ 
+   java_vendor_url_bug.value:	http://bugreport.sun.com/bugreport/ 
+   java_version.value:	1.8.0_181 
+   java_vm_info.value:	mixed mode 
+   java_vm_name.value:	Java HotSpot(TM) 64-Bit Server VM 
+   java_vm_specification_name.value:	Java Virtual Machine Specification 
+   java_vm_specification_vendor.value:	Oracle Corporation 
+   java_vm_specification_version.value:	1.8 
+   java_vm_vendor.value:	Oracle Corporation 
+   java_vm_version.value:	25.181-b13 
+   line_separator.value:	
+ 
+   oracle_jdbc_fanEnabled.value:	false 
+   os_arch.value:	amd64 
+   os_name.value:	Windows 10 
+   os_version.value:	10.0 
+   path_separator.value:	; 
+   sun_arch_data_model.value:	64 
+   sun_boot_class_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\resources.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\rt.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jsse.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jce.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\charsets.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jfr.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\classes 
+   sun_boot_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\bin 
+   sun_cpu_endian.value:	little 
+   sun_cpu_isalist.value:	amd64 
+   sun_desktop.value:	windows 
+   sun_io_unicode_encoding.value:	UnicodeLittle 
+   sun_java_command.value:	ora.end.to.end.OracleE2EMetrics_XAPool_Test 
+   sun_java_launcher.value:	SUN_STANDARD 
+   sun_jnu_encoding.value:	Cp1252 
+   sun_management_compiler.value:	HotSpot 64-Bit Tiered Compilers 
+   sun_os_patch_level.value:	 
+   user_country.value:	IN 
+   user_dir.value:	D:\WORKSPACE_2018\oracle.end.to.end 
+   user_home.value:	C:\Users\thanu 
+   user_language.value:	en 
+   user_name.value:	thanu 
+   user_script.value:	 
+   user_timezone.value:	Asia/Calcutta 
+   user_variant.value:	 
+ JDBC
+  OracleDataSource_2
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	49.0 msecs
+   ConnectionCreate.maxTime:	49 msecs
+   ConnectionCreate.minTime:	49 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	49 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_1
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	52.0 msecs
+   ConnectionCreate.maxTime:	52 msecs
+   ConnectionCreate.minTime:	52 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	52 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_0
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	791.0 msecs
+   ConnectionCreate.maxTime:	791 msecs
+   ConnectionCreate.minTime:	791 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	791 msecs
+   ConnectionOpenCount.count:	1 ops
+ DMS-Internal
+  Spy
+   spyExit.count:	1 ops
+   spyExit.logged:	0 ops
+  Measurement
+   createNoun.count:	20 ops
+   createSensor.count:	134 ops
+   destroyNoun.count:	7 ops
+   destroySensor.count:	52 ops
+   lastTreeNodeID.value:	0 
+   sampleMetric.count:	105 ops
+   sensorWeight.value:	5 
+   treeNodes.maxValue:	285.0 
+   treeNodes.value:	123 
+  Log
+   initLogging.count:	1 ops
+   messagesLogged.count:	0 ops
+   status.value:	enabled 
+  Clock
+   clockTime.value:	1559664415067 msecs
+   measuredFrequency.value:	1000 ticks
+   measuredResolution.value:	1 msecs
+   name.value:	default 
+   overheadPerCall.value:	4.132333517993544E-6 msecs
+   reportedFrequency.value:	1000 ticks
+   requestedUnits.value:	msecs 
+</DMSDUMP>
+<DMSDUMP version='2.0'>
+<timestamp>1559664620346 (Tue Jun 04 21:40:20 IST 2019)</timestamp>
+
+ UCP_METRIC
+ JVM
+  activeThreadGroups.maxValue:	1.0 groups
+  activeThreadGroups.minValue:	1.0 groups
+  activeThreadGroups.value:	1 groups
+  activeThreads.maxValue:	11.0 threads
+  activeThreads.minValue:	7.0 threads
+  activeThreads.value:	11 threads
+  freeMemory.maxValue:	463225.0 kbytes
+  freeMemory.minValue:	303619.0 kbytes
+  freeMemory.value:	303619 kbytes
+  startTime.value:	1559664618192 msecs
+  totalMemory.maxValue:	502784.0 kbytes
+  totalMemory.minValue:	332800.0 kbytes
+  totalMemory.value:	332800 kbytes
+  upTime.value:	2157 msecs
+  Properties
+   awt_toolkit.value:	sun.awt.windows.WToolkit 
+   file_encoding.value:	UTF-8 
+   file_encoding_pkg.value:	sun.io 
+   file_separator.value:	\ 
+   java_awt_graphicsenv.value:	sun.awt.Win32GraphicsEnvironment 
+   java_awt_printerjob.value:	sun.awt.windows.WPrinterJob 
+   java_class_path.value:	D:\WORKSPACE_2018\oracle.end.to.end\target\classes;F:\MAVEN_REPO\repository\com\oracle\ojdbc8dms\18.3.0.0\ojdbc8dms-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ucp\18.3.0.0\ucp-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ons\18.3.0.0\ons-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\dms\3.0\dms-3.0.jar 
+   java_class_version.value:	52.0 
+   java_endorsed_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\endorsed 
+   java_ext_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext 
+   java_home.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre 
+   java_io_tmpdir.value:	C:\Users\thanu\AppData\Local\Temp\ 
+   java_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\TortoiseGit\bin;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;;D:\PROJECTS\programs\sts-bundle\sts-3.9.6.RELEASE;;. 
+   java_runtime_name.value:	Java(TM) SE Runtime Environment 
+   java_runtime_version.value:	1.8.0_181-b13 
+   java_specification_name.value:	Java Platform API Specification 
+   java_specification_vendor.value:	Oracle Corporation 
+   java_specification_version.value:	1.8 
+   java_util_logging_SimpleFormatter_format.value:	[%1$tF %1$tT] [%4$-7s] %5$s %n 
+   java_vendor.value:	Oracle Corporation 
+   java_vendor_url.value:	http://java.oracle.com/ 
+   java_vendor_url_bug.value:	http://bugreport.sun.com/bugreport/ 
+   java_version.value:	1.8.0_181 
+   java_vm_info.value:	mixed mode 
+   java_vm_name.value:	Java HotSpot(TM) 64-Bit Server VM 
+   java_vm_specification_name.value:	Java Virtual Machine Specification 
+   java_vm_specification_vendor.value:	Oracle Corporation 
+   java_vm_specification_version.value:	1.8 
+   java_vm_vendor.value:	Oracle Corporation 
+   java_vm_version.value:	25.181-b13 
+   line_separator.value:	
+ 
+   oracle_jdbc_Trace.value:	true 
+   oracle_jdbc_fanEnabled.value:	false 
+   os_arch.value:	amd64 
+   os_name.value:	Windows 10 
+   os_version.value:	10.0 
+   path_separator.value:	; 
+   sun_arch_data_model.value:	64 
+   sun_boot_class_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\resources.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\rt.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jsse.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jce.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\charsets.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jfr.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\classes 
+   sun_boot_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\bin 
+   sun_cpu_endian.value:	little 
+   sun_cpu_isalist.value:	amd64 
+   sun_desktop.value:	windows 
+   sun_io_unicode_encoding.value:	UnicodeLittle 
+   sun_java_command.value:	ora.end.to.end.OracleE2EMetrics_XAPool_Test 
+   sun_java_launcher.value:	SUN_STANDARD 
+   sun_jnu_encoding.value:	Cp1252 
+   sun_management_compiler.value:	HotSpot 64-Bit Tiered Compilers 
+   sun_os_patch_level.value:	 
+   user_country.value:	IN 
+   user_dir.value:	D:\WORKSPACE_2018\oracle.end.to.end 
+   user_home.value:	C:\Users\thanu 
+   user_language.value:	en 
+   user_name.value:	thanu 
+   user_script.value:	 
+   user_timezone.value:	Asia/Calcutta 
+   user_variant.value:	 
+ JDBC
+  OracleDataSource_2
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	51.0 msecs
+   ConnectionCreate.maxTime:	51 msecs
+   ConnectionCreate.minTime:	51 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	51 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_1
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	62.0 msecs
+   ConnectionCreate.maxTime:	62 msecs
+   ConnectionCreate.minTime:	62 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	62 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_0
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	835.0 msecs
+   ConnectionCreate.maxTime:	835 msecs
+   ConnectionCreate.minTime:	835 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	835 msecs
+   ConnectionOpenCount.count:	1 ops
+ DMS-Internal
+  Spy
+   spyExit.count:	1 ops
+   spyExit.logged:	0 ops
+  Measurement
+   createNoun.count:	20 ops
+   createSensor.count:	135 ops
+   destroyNoun.count:	7 ops
+   destroySensor.count:	52 ops
+   lastTreeNodeID.value:	0 
+   sampleMetric.count:	106 ops
+   sensorWeight.value:	5 
+   treeNodes.maxValue:	286.0 
+   treeNodes.value:	124 
+  Log
+   initLogging.count:	1 ops
+   messagesLogged.count:	0 ops
+   status.value:	enabled 
+  Clock
+   clockTime.value:	1559664620352 msecs
+   measuredFrequency.value:	1000 ticks
+   measuredResolution.value:	1 msecs
+   name.value:	default 
+   overheadPerCall.value:	4.859457680635275E-6 msecs
+   reportedFrequency.value:	1000 ticks
+   requestedUnits.value:	msecs 
+</DMSDUMP>
+<DMSDUMP version='2.0'>
+<timestamp>1559664838782 (Tue Jun 04 21:43:58 IST 2019)</timestamp>
+
+ UCP_METRIC
+ JVM
+  activeThreadGroups.maxValue:	1.0 groups
+  activeThreadGroups.minValue:	1.0 groups
+  activeThreadGroups.value:	1 groups
+  activeThreads.maxValue:	11.0 threads
+  activeThreads.minValue:	7.0 threads
+  activeThreads.value:	11 threads
+  freeMemory.maxValue:	463082.0 kbytes
+  freeMemory.minValue:	350828.0 kbytes
+  freeMemory.value:	350828 kbytes
+  startTime.value:	1559664836688 msecs
+  totalMemory.maxValue:	502784.0 kbytes
+  totalMemory.minValue:	388608.0 kbytes
+  totalMemory.value:	388608 kbytes
+  upTime.value:	2097 msecs
+  Properties
+   awt_toolkit.value:	sun.awt.windows.WToolkit 
+   file_encoding.value:	UTF-8 
+   file_encoding_pkg.value:	sun.io 
+   file_separator.value:	\ 
+   java_awt_graphicsenv.value:	sun.awt.Win32GraphicsEnvironment 
+   java_awt_printerjob.value:	sun.awt.windows.WPrinterJob 
+   java_class_path.value:	D:\WORKSPACE_2018\oracle.end.to.end\target\classes;F:\MAVEN_REPO\repository\com\oracle\ojdbc8dms\18.3.0.0\ojdbc8dms-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ucp\18.3.0.0\ucp-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ons\18.3.0.0\ons-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\dms\3.0\dms-3.0.jar 
+   java_class_version.value:	52.0 
+   java_endorsed_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\endorsed 
+   java_ext_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext 
+   java_home.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre 
+   java_io_tmpdir.value:	C:\Users\thanu\AppData\Local\Temp\ 
+   java_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\TortoiseGit\bin;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;;D:\PROJECTS\programs\sts-bundle\sts-3.9.6.RELEASE;;. 
+   java_runtime_name.value:	Java(TM) SE Runtime Environment 
+   java_runtime_version.value:	1.8.0_181-b13 
+   java_specification_name.value:	Java Platform API Specification 
+   java_specification_vendor.value:	Oracle Corporation 
+   java_specification_version.value:	1.8 
+   java_util_logging_SimpleFormatter_format.value:	[%1$tF %1$tT] [%4$-7s] %5$s %n 
+   java_vendor.value:	Oracle Corporation 
+   java_vendor_url.value:	http://java.oracle.com/ 
+   java_vendor_url_bug.value:	http://bugreport.sun.com/bugreport/ 
+   java_version.value:	1.8.0_181 
+   java_vm_info.value:	mixed mode 
+   java_vm_name.value:	Java HotSpot(TM) 64-Bit Server VM 
+   java_vm_specification_name.value:	Java Virtual Machine Specification 
+   java_vm_specification_vendor.value:	Oracle Corporation 
+   java_vm_specification_version.value:	1.8 
+   java_vm_vendor.value:	Oracle Corporation 
+   java_vm_version.value:	25.181-b13 
+   line_separator.value:	
+ 
+   oracle_jdbc_Trace.value:	true 
+   oracle_jdbc_fanEnabled.value:	false 
+   os_arch.value:	amd64 
+   os_name.value:	Windows 10 
+   os_version.value:	10.0 
+   path_separator.value:	; 
+   sun_arch_data_model.value:	64 
+   sun_boot_class_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\resources.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\rt.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jsse.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jce.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\charsets.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jfr.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\classes 
+   sun_boot_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\bin 
+   sun_cpu_endian.value:	little 
+   sun_cpu_isalist.value:	amd64 
+   sun_desktop.value:	windows 
+   sun_io_unicode_encoding.value:	UnicodeLittle 
+   sun_java_command.value:	ora.end.to.end.OracleE2EMetrics_XAPool_Test 
+   sun_java_launcher.value:	SUN_STANDARD 
+   sun_jnu_encoding.value:	Cp1252 
+   sun_management_compiler.value:	HotSpot 64-Bit Tiered Compilers 
+   sun_os_patch_level.value:	 
+   user_country.value:	IN 
+   user_dir.value:	D:\WORKSPACE_2018\oracle.end.to.end 
+   user_home.value:	C:\Users\thanu 
+   user_language.value:	en 
+   user_name.value:	thanu 
+   user_script.value:	 
+   user_timezone.value:	Asia/Calcutta 
+   user_variant.value:	 
+ JDBC
+  OracleDataSource_2
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	52.0 msecs
+   ConnectionCreate.maxTime:	52 msecs
+   ConnectionCreate.minTime:	52 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	52 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_1
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	56.0 msecs
+   ConnectionCreate.maxTime:	56 msecs
+   ConnectionCreate.minTime:	56 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	56 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_0
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	811.0 msecs
+   ConnectionCreate.maxTime:	811 msecs
+   ConnectionCreate.minTime:	811 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	811 msecs
+   ConnectionOpenCount.count:	1 ops
+ DMS-Internal
+  Spy
+   spyExit.count:	1 ops
+   spyExit.logged:	0 ops
+  Measurement
+   createNoun.count:	20 ops
+   createSensor.count:	135 ops
+   destroyNoun.count:	7 ops
+   destroySensor.count:	52 ops
+   lastTreeNodeID.value:	0 
+   sampleMetric.count:	106 ops
+   sensorWeight.value:	5 
+   treeNodes.maxValue:	286.0 
+   treeNodes.value:	124 
+  Log
+   initLogging.count:	1 ops
+   messagesLogged.count:	0 ops
+   status.value:	enabled 
+  Clock
+   clockTime.value:	1559664838787 msecs
+   measuredFrequency.value:	1000 ticks
+   measuredResolution.value:	1 msecs
+   name.value:	default 
+   overheadPerCall.value:	4.681741969443113E-6 msecs
+   reportedFrequency.value:	1000 ticks
+   requestedUnits.value:	msecs 
+</DMSDUMP>
+<DMSDUMP version='2.0'>
+<timestamp>1559665616000 (Tue Jun 04 21:56:56 IST 2019)</timestamp>
+
+ UCP_METRIC
+ JVM
+  activeThreadGroups.maxValue:	1.0 groups
+  activeThreadGroups.minValue:	1.0 groups
+  activeThreadGroups.value:	1 groups
+  activeThreads.maxValue:	11.0 threads
+  activeThreads.minValue:	7.0 threads
+  activeThreads.value:	11 threads
+  freeMemory.maxValue:	463148.0 kbytes
+  freeMemory.minValue:	349298.0 kbytes
+  freeMemory.value:	349298 kbytes
+  startTime.value:	1559665613928 msecs
+  totalMemory.maxValue:	502784.0 kbytes
+  totalMemory.minValue:	387072.0 kbytes
+  totalMemory.value:	387072 kbytes
+  upTime.value:	2075 msecs
+  Properties
+   awt_toolkit.value:	sun.awt.windows.WToolkit 
+   file_encoding.value:	UTF-8 
+   file_encoding_pkg.value:	sun.io 
+   file_separator.value:	\ 
+   java_awt_graphicsenv.value:	sun.awt.Win32GraphicsEnvironment 
+   java_awt_printerjob.value:	sun.awt.windows.WPrinterJob 
+   java_class_path.value:	D:\WORKSPACE_2018\oracle.end.to.end\target\classes;F:\MAVEN_REPO\repository\com\oracle\ojdbc8dms\18.3.0.0\ojdbc8dms-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ucp\18.3.0.0\ucp-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\jdbc\ons\18.3.0.0\ons-18.3.0.0.jar;F:\MAVEN_REPO\repository\com\oracle\dms\3.0\dms-3.0.jar 
+   java_class_version.value:	52.0 
+   java_endorsed_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\endorsed 
+   java_ext_dirs.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext 
+   java_home.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre 
+   java_io_tmpdir.value:	C:\Users\thanu\AppData\Local\Temp\ 
+   java_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Program Files\TortoiseGit\bin;C:\Users\thanu\AppData\Local\Microsoft\WindowsApps;;D:\PROJECTS\programs\sts-bundle\sts-3.9.6.RELEASE;;. 
+   java_runtime_name.value:	Java(TM) SE Runtime Environment 
+   java_runtime_version.value:	1.8.0_181-b13 
+   java_specification_name.value:	Java Platform API Specification 
+   java_specification_vendor.value:	Oracle Corporation 
+   java_specification_version.value:	1.8 
+   java_util_logging_SimpleFormatter_format.value:	[%1$tF %1$tT] [%4$-7s] %5$s %n 
+   java_vendor.value:	Oracle Corporation 
+   java_vendor_url.value:	http://java.oracle.com/ 
+   java_vendor_url_bug.value:	http://bugreport.sun.com/bugreport/ 
+   java_version.value:	1.8.0_181 
+   java_vm_info.value:	mixed mode 
+   java_vm_name.value:	Java HotSpot(TM) 64-Bit Server VM 
+   java_vm_specification_name.value:	Java Virtual Machine Specification 
+   java_vm_specification_vendor.value:	Oracle Corporation 
+   java_vm_specification_version.value:	1.8 
+   java_vm_vendor.value:	Oracle Corporation 
+   java_vm_version.value:	25.181-b13 
+   line_separator.value:	
+ 
+   oracle_jdbc_Trace.value:	true 
+   oracle_jdbc_fanEnabled.value:	false 
+   os_arch.value:	amd64 
+   os_name.value:	Windows 10 
+   os_version.value:	10.0 
+   path_separator.value:	; 
+   sun_arch_data_model.value:	64 
+   sun_boot_class_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\resources.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\rt.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jsse.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jce.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\charsets.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\lib\jfr.jar;D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\classes 
+   sun_boot_library_path.value:	D:\PROJECTS\programs\Java\jdk1.8.0_181\jre\bin 
+   sun_cpu_endian.value:	little 
+   sun_cpu_isalist.value:	amd64 
+   sun_desktop.value:	windows 
+   sun_io_unicode_encoding.value:	UnicodeLittle 
+   sun_java_command.value:	ora.end.to.end.OracleE2EMetrics_XAPool_Test 
+   sun_java_launcher.value:	SUN_STANDARD 
+   sun_jnu_encoding.value:	Cp1252 
+   sun_management_compiler.value:	HotSpot 64-Bit Tiered Compilers 
+   sun_os_patch_level.value:	 
+   user_country.value:	IN 
+   user_dir.value:	D:\WORKSPACE_2018\oracle.end.to.end 
+   user_home.value:	C:\Users\thanu 
+   user_language.value:	en 
+   user_name.value:	thanu 
+   user_script.value:	 
+   user_timezone.value:	Asia/Calcutta 
+   user_variant.value:	 
+ JDBC
+  OracleDataSource_2
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	52.0 msecs
+   ConnectionCreate.maxTime:	52 msecs
+   ConnectionCreate.minTime:	52 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	52 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_1
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	56.0 msecs
+   ConnectionCreate.maxTime:	56 msecs
+   ConnectionCreate.minTime:	56 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	56 msecs
+   ConnectionOpenCount.count:	1 ops
+  OracleDataSource_0
+   ConnectionCloseCount.count:	1 ops
+   ConnectionCreate.maxActive:	1 threads
+   ConnectionCreate.active:	0 threads
+   ConnectionCreate.avg:	787.0 msecs
+   ConnectionCreate.maxTime:	787 msecs
+   ConnectionCreate.minTime:	787 msecs
+   ConnectionCreate.completed:	1 ops
+   ConnectionCreate.time:	787 msecs
+   ConnectionOpenCount.count:	1 ops
+ DMS-Internal
+  Spy
+   spyExit.count:	1 ops
+   spyExit.logged:	0 ops
+  Measurement
+   createNoun.count:	20 ops
+   createSensor.count:	135 ops
+   destroyNoun.count:	7 ops
+   destroySensor.count:	52 ops
+   lastTreeNodeID.value:	0 
+   sampleMetric.count:	106 ops
+   sensorWeight.value:	5 
+   treeNodes.maxValue:	286.0 
+   treeNodes.value:	124 
+  Log
+   initLogging.count:	1 ops
+   messagesLogged.count:	0 ops
+   status.value:	enabled 
+  Clock
+   clockTime.value:	1559665616005 msecs
+   measuredFrequency.value:	1000 ticks
+   measuredResolution.value:	1 msecs
+   name.value:	default 
+   overheadPerCall.value:	4.534942548626828E-6 msecs
+   reportedFrequency.value:	1000 ticks
+   requestedUnits.value:	msecs 
+</DMSDUMP>
