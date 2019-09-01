@@ -154,17 +154,18 @@ public class OracleE2EMetrics_XAPool_Test {
 	//////////////// Applying Metrics to Connection////////////
 
 	public static void main(String[] args) throws Exception {
-		XADataSource xaDs = getOracleXA("TESTDB1", "testdb");
+		XADataSource xaDs = getOracleXA("karta", "karta");
 		Connection con = xaDs.getXAConnection().getConnection();
 		Properties properties = new Properties();
-		properties.setProperty(OracleKeyName + OracleConnection.OCSID_ACTION_KEY, "ACTION_KEY"); // Any value that is
+		properties.setProperty(OracleKeyName + OracleConnection.OCSID_ACTION_KEY, "MyAction3"); // Any value that is
 																									// identify action
-		properties.setProperty(OracleKeyName + OracleConnection.OCSID_CLIENTID_KEY, "CLIENTID_KEY");
-		properties.setProperty(OracleKeyName + OracleConnection.OCSID_ECID_KEY, "ECID_KEY");
-		properties.setProperty(OracleKeyName + OracleConnection.OCSID_MODULE_KEY, "MODULE_KEY");
-		properties.setProperty(OracleKeyName + OracleConnection.OCSID_DBOP_KEY, "DBOP_KEY");
+		properties.setProperty(OracleKeyName + OracleConnection.OCSID_CLIENTID_KEY, "MyClientID3");
+		properties.setProperty(OracleKeyName + OracleConnection.OCSID_ECID_KEY, "MyECID3");
+		properties.setProperty(OracleKeyName + OracleConnection.OCSID_MODULE_KEY, "MyModule3");
+		properties.setProperty(OracleKeyName + OracleConnection.OCSID_DBOP_KEY, "MyDBOP3");
 		properties.setProperty(OracleKeyName + OracleConnection.OCSID_SEQUENCE_NUMBER_KEY, "0");
 		con.setClientInfo(properties);
+
 
 		DatabaseMetaData meta = con.getMetaData();
 		System.out.println(meta.getDatabaseMajorVersion());

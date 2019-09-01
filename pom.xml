@@ -23,7 +23,7 @@
 		<!-- mvn install:install-file -Dfile=ons-12.1.0.2.jar -DgroupId=com.oracle.jdbc -DartifactId=ons -Dversion=12.1.0.2 -Dpackaging=jar -->
 		<dependency>
 			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc8dms</artifactId>
+			<artifactId>ojdbc8</artifactId> <!-- ojdbc8dms -->
 			<version>${oracle.driver.version}</version>
 		</dependency>
 
@@ -44,6 +44,13 @@
 			<artifactId>dms</artifactId>
 			<version>3.0</version>
 		</dependency>
-		
+
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.9</version>
+		</dependency>
+
 	</dependencies>
 </project>
